@@ -17,12 +17,11 @@ The analytical results showed in the paper to the benchmark instances are avalia
 
 #INSTANCES
 
-The instances used in the paper are not property of the authors. In reason to that and to make possible tests in the algorithm only one instance of the studied case is avaliable in the directory ./instances.
+The instances used in the paper are not property of the authors. To make possible realize tests in the algorithms one instance of the studied case is avaliable in the directory ./instances.
 
-To get the complete set of instances, contact the authors of the original papers.
-
-The Total Weighted Tardiness contact Yang-Kuei Lin - yklin@mail.fcu.edu.tw Paper: Lin, Y.-K., Hsieh, F.-Y., 2014. Unrelated parallel machine scheduling with setup times and ready times. International Journal of Production Research Vol. 52 (4), P. 1200 – 1214.
+To get the complete set of instances, contact the authors (Yang-Kuei Lin - yklin@mail.fcu.edu.tw) of the original paper:
+Lin, Y.-K., Hsieh, F.-Y., 2014. Unrelated parallel machine scheduling with setup times and ready times. International Journal of Production Research Vol. 52 (4), P. 1200 – 1214. DOI: 10.1080/00207543.2013.848305
 
 #CONTACT
 
-Any doubt may be emailed to rodneyoliveira@dppg.cefetmg.br or sergio@dppg.cefetmg.br
+If you have any doubt or question about the source code, please contact us in rodneyoliveira@dppg.cefetmg.br or sergio@dppg.cefetmg.br
